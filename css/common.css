@@ -562,3 +562,7 @@ a img.aligncenter {
     width: auto;
     z-index: 100000; /* Above WP toolbar. */
 }
+
+ul.a {
+    list-style-type: circle;
+}
