@@ -88,7 +88,7 @@ body a:hover
 
 .header-holder
 {
-    width: 1170px; 
+    width: 1170px;
 }
 
 .header-logo
@@ -111,7 +111,7 @@ body a:hover
     width: 20px;
     height: 18px;
     top: 80px;
-    right: 0; 
+    right: 0;
     z-index: 10;
 }
 
@@ -139,7 +139,7 @@ body a:hover
 }
 
 #toggle .third-menu-line
-{        
+{
     margin-bottom: 0;
 }
 
@@ -148,7 +148,7 @@ body a:hover
     background-color: #000;
 }
 
-#toggle.on .first-menu-line 
+#toggle.on .first-menu-line
 {
     transform: rotate(45deg) translate(5px, 5px);
     -ms-transform: rotate(45deg) translate(5px, 5px);
